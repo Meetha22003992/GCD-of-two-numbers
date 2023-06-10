@@ -1,7 +1,7 @@
 # Find the GCD of two numbers
 
 ## AIM:
-To write a program to find the GCD of two numbers using function.
+To write a python program to find the GCD of two numbers using function.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -15,7 +15,6 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
 Program to find the gcd of two number using function.
 Developed by: Meetha Prabhu
 RegisterNumber:  212222240065
@@ -30,7 +29,6 @@ def gcd():
         if(x%i==0 and y%i==0):
             res=i
     print("GCD of two numbers is:",res)
-*/
 ```
 
 ## Output:
